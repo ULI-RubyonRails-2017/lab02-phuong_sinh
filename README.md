@@ -1,12 +1,12 @@
-# Homework 2 - *Name of your app*
+# Homework 2 - ChatChic
 
-**Name of your app** is a Ruby on Rails blog application that allows users to send messages to each other that can only be read once.
+ChatChic is a Ruby on Rails blog application that allows users to send messages to each other that can only be read once.
 
-Submitted by: **your name**
+Submitted by: Phuong Cao, Sinh Nguyen
 
-Time spent: **** hours
+Time spent: 20 hours
 
-URL: ****
+URL: http://chatchic.vn
 
 ## User Stories
 
