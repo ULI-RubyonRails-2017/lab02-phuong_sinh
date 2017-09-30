@@ -9,7 +9,7 @@ services:
     container_name: webapp
     links:
       - db
-    command: sh /webapp/scripts/startup.sh
+    command: bash -c "sh /webapp/scripts/startup.sh && sh install_bootstrap_4.0.sh"
     env_file: .env
   db:
     image: postgres
